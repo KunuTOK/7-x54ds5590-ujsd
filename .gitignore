@@ -1,0 +1,23 @@
+#ignore
+data_telegram_kunutok.txt
+/archiv/*
+g2.py
+g3.py
+mtc.py
+omet.py
+test.py
+kunutok.session
+
+# ../.DS_Store
+# ../8bit-story/
+# ../BoredCalendar/
+# ../Numerolog/
+# ../blog/
+# ../diesel-engine-inc/
+# ../elixir_course_junior/
+# ../examples/
+# ../fogbender/
+# ../say-hi/
+# ../telegram_bot/
+# .DS_Store
+# "../\320\235\320\276\320\262\320\260\321\217 \320\277\320\260\320\277\320\272\320\260/"
