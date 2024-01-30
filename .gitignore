@@ -1,5 +1,6 @@
 #ignore
 data_telegram_kunutok.txt
+zavod.txt
 /archiv/*
 g2.py
 g3.py
@@ -10,6 +11,7 @@ test.py
 kunutok.session
 data.py
 task.py
+task copy.py
 
 # ../.DS_Store
 # ../8bit-story/
