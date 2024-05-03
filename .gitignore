@@ -1,6 +1,7 @@
 #ignore
 data_telegram_kunutok.txt
 zavod.txt
+zavod copy.txt
 /archiv/*
 g2.py
 g3.py
@@ -12,6 +13,16 @@ kunutok.session
 data.py
 task.py
 task copy.py
+tb.py
+bot_data.db
+tissue_bot.db
+tg_data1.db
+tg_data.db
+tg_aiogram.py
+New_data.py
+messages.db
+data.session
+anon.session
 
 # ../.DS_Store
 # ../8bit-story/
